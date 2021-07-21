@@ -1,0 +1,45 @@
+body {
+    background-color: yellowgreen;
+    font-size: large;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+#top {
+    width: 100%;
+    background-color: rgb(255, 0, 0);
+    text-align: center;
+    font-size: 75px;
+    padding-bottom: 55px;
+    position: relative;
+}
+#lefteye {
+    background-color: white;
+    border-radius: 40px;
+    padding: 40px;
+    position: absolute;
+    top: 40px;
+    left: 100px;
+}
+#righteye {
+    background-color: white;
+    border-radius: 40px;
+    padding: 40px;
+    position: absolute;
+    top: 40px;
+    right: 100px;
+}
+#lefteye-in {
+    background-color: black;
+    border-radius: 10px;
+    padding: 10px;
+    position: absolute;
+    top: 60px;
+    left: 150px;
+}
+#righteye-in {
+    background-color: black;
+    border-radius: 10px;
+    padding: 10px;
+    position: absolute;
+    top: 60px;
+    right: 150px;
+}
